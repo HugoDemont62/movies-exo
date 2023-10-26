@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "imageUrl": "https://example.com/images/inception.jpg",
+    "language": "English",
+    "releaseDate": "2010",
+    "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"]
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "imageUrl": "https://example.com/images/interstellar.jpg",
+    "language": "English",
+    "releaseDate": "2014",
+    "actors": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"]
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "imageUrl": "https://example.com/images/dark_knight.jpg",
+    "language": "English",
+    "releaseDate": "2008",
+    "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]
+  }
+]
